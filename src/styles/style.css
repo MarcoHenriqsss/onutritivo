@@ -285,7 +285,7 @@ button {
 }
 
 .hero-button:hover {
-  background: #2c8d02;;
+  background: #2c8d02;
 
   transform: translateY(-2px);
 }

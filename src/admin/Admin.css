@@ -18,7 +18,7 @@
 .admin-login-small {
   display: block;
   margin-bottom: 15px;
-  color: #8a7354;
+  color: #2c8d02;
   font-family: "Montserrat", sans-serif;
   font-size: 10px;
   font-weight: 600;
@@ -79,7 +79,7 @@
 }
 
 .admin-login-box button:hover {
-  background: #8a7354;
+  background: #2c8d02;
 }
 
 .admin-login-box button:disabled {
@@ -118,7 +118,7 @@
 .admin-header span,
 .admin-title span,
 .admin-modal-header span {
-  color: #8a7354;
+  color: #2c8d02;
   font-size: 10px;
   font-weight: 600;
   letter-spacing: 3px;
@@ -184,7 +184,7 @@
 }
 
 .admin-new-button:hover {
-  background: #8a7354;
+  background: #2c8d02;
 }
 
 .admin-products {
@@ -217,7 +217,7 @@
 }
 
 .admin-product-info > span {
-  color: #8a7354;
+  color: #2c8d02;
   font-size: 9px;
   font-weight: 600;
   letter-spacing: 2px;
@@ -413,9 +413,9 @@
 }
 
 .admin-form-actions button:hover {
-  background: #8a7354;
+  background: #2c8d02;
   color: white;
-  border-color: #8a7354;
+  border-color: #2c8d02;
 }
 
 /* ==============================
