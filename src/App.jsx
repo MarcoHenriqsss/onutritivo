@@ -408,7 +408,7 @@ function App() {
             <div className="about-content">
 
               <span>
-                O Nutritivo
+                O NUTRITIVO
               </span>
 
               <h2>
