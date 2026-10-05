@@ -18,7 +18,7 @@ function Header({ quantidadeCarrinho, abrirCarrinho }) {
         >
           <img
             src="/logo.jpeg"
-            alt="Arte Lumini"
+            alt="O Nutritivo - Produtos Naturais"
           />
         </a>
 
@@ -40,7 +40,7 @@ function Header({ quantidadeCarrinho, abrirCarrinho }) {
             href="#perfumes"
             onClick={fecharMenu}
           >
-            Luminárias
+            Produtos
           </a>
 
           <a
@@ -51,7 +51,7 @@ function Header({ quantidadeCarrinho, abrirCarrinho }) {
           </a>
 
           <a
-            href="https://www.instagram.com/arte.lumini/"
+            href="https://www.instagram.com/onutritivo/"
             target="_blank"
             rel="noopener noreferrer"
             onClick={fecharMenu}

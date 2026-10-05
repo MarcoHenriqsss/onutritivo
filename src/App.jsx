@@ -273,16 +273,15 @@ function App() {
           <div className="section-title">
 
             <span>
-              NOSSA SELEÇÃO
+              NOSSOS PRODUTOS
             </span>
 
             <h2>
-              Encontre sua luminária perfeita
+              Encontre o produto natural ideal para você.
             </h2>
 
             <p>
-              luminárias artesanais que transformam momentos 
-              em memórias.
+              Produtos naturais que cuidam de você e do planeta.
             </p>
 
           </div>
@@ -327,7 +326,7 @@ function App() {
 
               <input
                 type="text"
-                placeholder="Buscar luminária..."
+                placeholder="Buscar produtos..."
                 value={busca}
                 onChange={(e) =>
                   setBusca(e.target.value)
@@ -371,7 +370,7 @@ function App() {
             <div className="no-products">
 
               <h3>
-                Nenhuma luminária encontrada.
+                Nenhum produto encontrado.
               </h3>
 
               <p>
@@ -400,7 +399,7 @@ function App() {
 
               <img
                 src="/perfume-destaque.jpg"
-                alt="Perfume Scond Collection"
+                alt="O Nutritivo - Produtos Naturais"
               />
 
             </div>
@@ -409,29 +408,31 @@ function App() {
             <div className="about-content">
 
               <span>
-                Arte Lumini
+                O Nutritivo
               </span>
 
               <h2>
-                Luminárias que inovam 
+                Nossa História
                 <br />
-                e encantam.
+              
               </h2>
 
               <p>
-                Na Arte Lumini você
-                encontra luminárias artesanais
-                para realçar sua personalidade
-                e tornar cada momento ainda
-                mais especial.
+                Fundado em 03 de março de 2016, em Anápolis,
+                 O Nutritivo foi uma das primeiras lojas especializadas 
+                 em alimentação saudável da região. Criada pelo nutricionista Rafael Maciel 
+                 e pela administradora Gilcimara Maciel, a empresa surgiu com o objetivo de 
+                 oferecer produtos para pessoas com restrições alimentares, além de itens a granel
+                  e suplementos voltados à saúde e longevidade.
               </p>
 
               <p>
-                Trabalhamos com luminárias,
-                buscando sempre oferecer
-                qualidade, variedade e
-                uma experiência especial para iluminar seu ambiente.
-                .
+                Com o sucesso da loja, O Nutritivo expandiu sua atuação e,
+                 em 04 de maio de 2018, mudou-se para um espaço maior e mais visível.
+                  A mudança ampliou seu alcance em Anápolis e cidades vizinhas, 
+                  consolidando a empresa como referência local em produtos
+                   naturais e alimentação saudável.
+                
               </p>
 
             </div>
@@ -452,21 +453,21 @@ function App() {
         <div className="footer-brand">
 
           <strong>
-            ARTE LUMINI
+            O Nutritivo
           </strong>
 
           <span>
-            Luminárias que inovam e encantam.
+            Produtos naturais que cuidam de você e do planeta.
           </span>
 
 
           <a
-            href="https://www.instagram.com/arte.lumini/"
+            href="https://www.instagram.com/onutritivo/"
             target="_blank"
             rel="noopener noreferrer"
             className="instagram-link"
           >
-            Instagram · @arte.lumini
+            Instagram · @onutritivo - Av. Universitária, 1481 - Vila Santa Isabel, Anápolis - GO, 75083-350
           </a>
 
 
@@ -475,11 +476,11 @@ function App() {
           ================================= */}
 
           <a
-            href="https://wa.me/5522997527367"
+            href="https://wa.me/5522995112002"
             target="_blank"
             rel="noopener noreferrer"
             className="whatsapp-float"
-            aria-label="Falar com a Arte Lumini pelo WhatsApp"
+            aria-label="Falar com a O Nutritivo pelo WhatsApp"
           >
 
             <svg
@@ -507,7 +508,7 @@ function App() {
         <p>
           © {new Date().getFullYear()}
           {" "}
-          Arte Lumini.
+          O Nutritivo.
           Todos os direitos reservados.
         </p>
 

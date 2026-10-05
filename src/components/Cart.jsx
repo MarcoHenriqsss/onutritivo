@@ -21,10 +21,10 @@ function Cart({
   function finalizarWhatsApp() {
     if (carrinho.length === 0) return;
 
-    const numeroWhatsApp = "5562993265596";
+    const numeroWhatsApp = "5562995112002";
 
     let mensagem =
-      "Olá! Gostaria de fazer um pedido na Arte Lumini.\n\n";
+      "Olá! Gostaria de fazer um pedido na loja O Nutritivo.\n\n";
 
     carrinho.forEach((item) => {
       const subtotal =
@@ -91,7 +91,7 @@ function Cart({
             </h3>
 
             <p>
-              Adicione seus perfumes favoritos
+              Adicione seus produtos favoritos
               para continuar.
             </p>
 

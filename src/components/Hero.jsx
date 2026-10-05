@@ -6,21 +6,21 @@ function Hero() {
       <div className="hero-content">
 
         <span className="hero-small">
-          Arte Lumini
+          O Nutritivo - Produtos Naturais
         </span>
 
         <h1>
-          Luminárias artesanais que
+          Produtos naturais que cuidam de você e do planeta.
           <br />
-          transformam.
+          
         </h1>
 
         <p>
-          Descubra a magia da iluminação artesanal com nossas luminárias
+          Descubra a nossa coleção de produtos naturais
         </p>
 
         <a href="#perfumes" className="hero-button">
-          CONHECER COLEÇÃO
+          CONHECER PRODUTOS
         </a>
 
       </div>
