@@ -476,7 +476,7 @@ function App() {
           ================================= */}
 
           <a
-            href="https://wa.me/5522995112002"
+            href="https://wa.me/5562995112002"
             target="_blank"
             rel="noopener noreferrer"
             className="whatsapp-float"
