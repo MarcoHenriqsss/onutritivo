@@ -19,7 +19,7 @@ function Hero() {
           Descubra a nossa coleção de produtos naturais
         </p>
 
-        <a href="#perfumes" className="hero-button">
+        <a href="#productos" className="hero-button">
           CONHECER PRODUTOS
         </a>
 

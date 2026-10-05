@@ -267,7 +267,7 @@ function App() {
 
         <section
           className="catalog"
-          id="perfumes"
+          id="productos"
         >
 
           <div className="section-title">
