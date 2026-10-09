@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600&display=swap');
 
 :root {
-  --black: #0b0b0b;
+  --black: #0032df96;
   --dark: #121212;
   --white: #ffffff;
   --cream: #f6f3ef;
-  --gray: #777777;
+  --gray: #0032df96;
   --light-gray: #e8e5e1;
   --gold: #b99a61;
-  --gold-dark: #2c8d02
+  --gold-dark: #0032df96
   ;
 }
 
@@ -222,7 +222,7 @@ button {
 
   letter-spacing: 4px;
 
-  color: #2c8d02;
+  color: #0032df96;
 }
 
 
@@ -239,7 +239,7 @@ button {
 
   font-weight: 500;
 
-  color: #111;
+  color: #0032df96;
 }
 
 
@@ -256,7 +256,7 @@ button {
 
   line-height: 1.8;
 
-  color: #000000;
+  color: #0032df96;
 }
 
 
@@ -285,7 +285,7 @@ button {
 }
 
 .hero-button:hover {
-  background: #2c8d02;
+  background: #0032df96;
 
   transform: translateY(-2px);
 }
@@ -312,7 +312,7 @@ button {
 
 .section-title span,
 .about-content > span {
-  color: #2c8d02;
+  color: #0032df96;
 
   font-size: 11px;
 
@@ -657,7 +657,7 @@ footer span {
 
   margin-top: 7px;
 
-  color: #888;
+  color: #fffefe;
 
   font-size: 10px;
 
@@ -665,7 +665,7 @@ footer span {
 }
 
 footer p {
-  color: #777;
+  color: #ffffff;
 
   font-size: 10px;
 }

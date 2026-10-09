@@ -277,11 +277,11 @@ function App() {
             </span>
 
             <h2>
-              Encontre o produto natural ideal para você.
+              Encontre o produto perfeito para você.
             </h2>
 
             <p>
-              Produtos naturais que cuidam de você e do planeta.
+              Doce e salgado caseiro, feito com ingredientes naturais e amor.
             </p>
 
           </div>
@@ -399,7 +399,7 @@ function App() {
 
               <img
                 src="/perfume-destaque.jpg"
-                alt="O Nutritivo - Produtos Naturais"
+                alt="Delicias da Gaby - Doces e Salgados Caseiros"
               />
 
             </div>
@@ -408,30 +408,23 @@ function App() {
             <div className="about-content">
 
               <span>
-                O NUTRITIVO
+                Delicias da Gaby
               </span>
 
               <h2>
-                Nossa História
+                🍭 Delícias da Gaby 
                 <br />
               
               </h2>
 
               <p>
-                Fundado em 03 de março de 2016, em Anápolis,
-                 O Nutritivo foi uma das primeiras lojas especializadas 
-                 em alimentação saudável da região. Criada pelo nutricionista Rafael Maciel 
-                 e pela administradora Gilcimara Maciel, a empresa surgiu com o objetivo de 
-                 oferecer produtos para pessoas com restrições alimentares, além de itens a granel
-                  e suplementos voltados à saúde e longevidade.
+                Um mundo de sabores e doçura feito com carinho para deixar seus dias mais especiais!
+                 💖 Aqui você encontra doces deliciosos, preparados para adoçar cada momento e tornar 
+                 suas comemorações ainda mais inesquecíveis. 🧁🍫
               </p>
 
               <p>
-                Com o sucesso da loja, O Nutritivo expandiu sua atuação e,
-                 em 04 de maio de 2018, mudou-se para um espaço maior e mais visível.
-                  A mudança ampliou seu alcance em Anápolis e cidades vizinhas, 
-                  consolidando a empresa como referência local em produtos
-                   naturais e alimentação saudável.
+                ✨ Seu momento mais doce começa aqui!
                 
               </p>
 
@@ -453,21 +446,21 @@ function App() {
         <div className="footer-brand">
 
           <strong>
-            O Nutritivo
+            Delicias da Gaby
           </strong>
 
           <span>
-            Produtos naturais que cuidam de você e do planeta.
+            Doce e salgado caseiro, feito com ingredientes naturais e amor.
           </span>
 
 
           <a
-            href="https://www.instagram.com/onutritivo/"
+            href="https://www.instagram.com/delicias_gaby0/"
             target="_blank"
             rel="noopener noreferrer"
             className="instagram-link"
           >
-            Instagram · @onutritivo - Av. Universitária, 1481 - Vila Santa Isabel, Anápolis - GO, 75083-350
+            Instagram · @delicias_gaby0 - Anápolis - GO.
           </a>
 
 
@@ -476,11 +469,11 @@ function App() {
           ================================= */}
 
           <a
-            href="https://wa.me/5562995112002"
+            href="https://wa.me/556282436530"
             target="_blank"
             rel="noopener noreferrer"
             className="whatsapp-float"
-            aria-label="Falar com a O Nutritivo pelo WhatsApp"
+            aria-label="Falar com a Delicias da Gaby no WhatsApp"
           >
 
             <svg
@@ -508,7 +501,7 @@ function App() {
         <p>
           © {new Date().getFullYear()}
           {" "}
-          O Nutritivo.
+          Delicias da Gaby.
           Todos os direitos reservados.
         </p>
 

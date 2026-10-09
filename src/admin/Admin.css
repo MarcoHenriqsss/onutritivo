@@ -118,7 +118,7 @@
 .admin-header span,
 .admin-title span,
 .admin-modal-header span {
-  color: #2c8d02;
+  color: #0032df96;
   font-size: 10px;
   font-weight: 600;
   letter-spacing: 3px;
@@ -184,7 +184,7 @@
 }
 
 .admin-new-button:hover {
-  background: #2c8d02;
+  background: #0032df96;
 }
 
 .admin-products {
@@ -217,7 +217,7 @@
 }
 
 .admin-product-info > span {
-  color: #2c8d02;
+  color: #0032df96;
   font-size: 9px;
   font-weight: 600;
   letter-spacing: 2px;
@@ -413,9 +413,9 @@
 }
 
 .admin-form-actions button:hover {
-  background: #2c8d02;
+  background: #0032df96;
   color: white;
-  border-color: #2c8d02;
+  border-color: #0032df96;
 }
 
 /* ==============================

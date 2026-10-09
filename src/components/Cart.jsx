@@ -21,10 +21,10 @@ function Cart({
   function finalizarWhatsApp() {
     if (carrinho.length === 0) return;
 
-    const numeroWhatsApp = "5562995112002";
+    const numeroWhatsApp = "556282436530";
 
     let mensagem =
-      "Olá! Gostaria de fazer um pedido na loja O Nutritivo.\n\n";
+      "Olá! Gostaria de fazer um pedido na loja Delicias da Gaby.\n\n";
 
     carrinho.forEach((item) => {
       const subtotal =
