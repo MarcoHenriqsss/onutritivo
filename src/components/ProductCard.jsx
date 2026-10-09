@@ -14,7 +14,7 @@ function ProductCard({
     );
 
     window.open(
-      `https://wa.me/556282436530?text=${mensagem}`,
+      `https://wa.me/5562995112002?text=${mensagem}`,
       "_blank"
     );
   }

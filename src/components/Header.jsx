@@ -18,7 +18,7 @@ function Header({ quantidadeCarrinho, abrirCarrinho }) {
         >
           <img
             src="/logo.jpeg"
-            alt="Delicias da Gaby - delicias naturais e saudáveis"
+            alt="O Nutritivo - Produtos Naturais"
           />
         </a>
 
@@ -51,7 +51,7 @@ function Header({ quantidadeCarrinho, abrirCarrinho }) {
           </a>
 
           <a
-            href="https://www.instagram.com/delicias_gaby0/"
+            href="https://www.instagram.com/onutritivo/"
             target="_blank"
             rel="noopener noreferrer"
             onClick={fecharMenu}
